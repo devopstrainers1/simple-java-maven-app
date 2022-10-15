@@ -11,7 +11,7 @@ public class App
     public App() {}
 
     public static void main(String[] args) {
-        System.ou.println(new App().getMessage());
+        System.out.println(new App().getMessage());
     }
 
     private final String getMessage() {
